@@ -6,3 +6,4 @@ Both Data set and notebook file
 
 WELFake dataset is downloaded from Kaggle.
 
+https://www.kaggle.com/datasets/studymart/welfake-dataset-for-fake-news
